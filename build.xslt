@@ -44,7 +44,7 @@ ga('create', 'UA-33466045-1', 'auto'); // Live only
                 <div id="c_rsRegion-masthead" class="cr">
                   <h1 class="c_SCS-wordmark cr">
                     <a href="https://www.cs.cmu.edu/index" class="cr">
-                      <img src="/site-images/scs-logo-640.png" class="cr" />
+                      <img src="/images/cmu-wordmark-white.png" class="cr" />
                       <span class="c_invisible cr">Carnegie Mellon University School of Computer Science</span>
                     </a>
                   </h1>
@@ -438,10 +438,9 @@ ga('create', 'UA-33466045-1', 'auto'); // Live only
                           <address class="c_rsAddress cr">
                             <address class="cr">
                               <address class="c_address cr">
-                                <strong class="cr">School of Computer Science</strong>
                                 <br class="cr" />
 5000 Forbes Avenue<br class="cr" />
-Pittsburgh, PA 15213<br class="cr" /><a href="https://www.cmu.edu/legal/" class="cr">Legal Info</a> | <a class="c_email cr" href="mailto:scs-grad-application@andrew.cmu.edu" target="_blank">scs-grad-application@andrew.cmu.edu</a></address>
+Pittsburgh, PA 15213<br class="cr" /><a href="https://www.cmu.edu/legal/" class="cr">Legal Info</a> | <a class="c_email cr" href="mailto: apply@online.cmu.edu" target="_blank">apply@online.cmu.edu</a></address>
                             </address>
                           </address>
                         </div>
